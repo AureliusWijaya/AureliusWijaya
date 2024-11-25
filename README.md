@@ -31,4 +31,4 @@ Hello welcome to my GitHub, I'm Aurelius Alvin Wijaya a passionate computer scie
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/aurelius-wijaya/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/aurelius-wijaya/)

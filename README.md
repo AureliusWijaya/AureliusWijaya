@@ -1,6 +1,6 @@
 # Hi there, I'm Aurelius Alvin Wijaya! 👋
 
-![Cute Anime Character Waving]([https://media.giphy.com/media/your-anime-gif-url.gif](https://tenor.com/uIVIxKuZ368.gif))
+![Waving](https://tenor.com/uIVIxKuZ368.gif)
 
 Hello welcome to my GitHub, I'm Aurelius Alvin Wijaya a passionate computer science student at Binus University, graduating in 2026.
 

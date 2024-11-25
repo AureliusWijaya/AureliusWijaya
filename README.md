@@ -1,6 +1,7 @@
 # Hi there, I'm Aurelius Alvin Wijaya! 👋
 
-<div class="tenor-gif-embed" data-postid="17256631319492963340" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/shikanoko-nokotan-my-deer-friend-deer-shikanoko-nokonoko-koshitantan-gif-17256631319492963340">Shikanoko Nokotan GIF</a>from <a href="https://tenor.com/search/shikanoko-gifs">Shikanoko GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![Waving](https://commerceimg.blob.core.windows.net/images/shikanoko-nokotan.gif)
+
 
 Hello welcome to my GitHub, I'm Aurelius Alvin Wijaya a passionate computer science student at Binus University, graduating in 2026.
 
